@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__el-tree-node__expand-icon el-icon-car_9f76d0</name>
+   <tag></tag>
+   <elementGuidId>7910a9ae-dcde-435f-9042-aa11e74885d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-tree-node__expand-icon.el-icon-caret-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-menu-6970']/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-tree-node__expand-icon el-icon-caret-right</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-menu-6970&quot;)/div[@class=&quot;tree&quot;]/div[@class=&quot;el-tree el-tree--highlight-current&quot;]/div[@class=&quot;el-tree-node is-focusable&quot;]/div[@class=&quot;el-tree-node__content&quot;]/span[@class=&quot;el-tree-node__expand-icon el-icon-caret-right&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-menu-6970']/div/div/div/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div/div/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

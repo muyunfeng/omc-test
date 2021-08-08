@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ICCID_el-icon-search</name>
+   <tag></tag>
+   <elementGuidId>7dbbb7bb-841d-47a0-b0dd-8f1b5365f818</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.el-icon-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='equipment']/div[@class='header']//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-icon-search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;rightCon&quot;]/div[@class=&quot;archives&quot;]/div[@class=&quot;equipment&quot;]/div[@class=&quot;header&quot;]/form[@class=&quot;el-form demo-form-inline el-form--inline&quot;]/div[@class=&quot;el-form-item el-form-item--small&quot;]/div[@class=&quot;el-form-item__content&quot;]/button[@class=&quot;el-button el-button--primary el-button--small&quot;]/i[@class=&quot;el-icon-search&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/form/div[4]/div/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+   </webElementXpaths>
+</WebElementEntity>

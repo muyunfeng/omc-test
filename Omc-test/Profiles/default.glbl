@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>测试环境地址</description>
+      <initValue>'https://2k1vo.vscsv.com:64043/omc/#/'</initValue>
+      <name>test_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>初始终端编号</description>
+      <initValue>'1008611'</initValue>
+      <name>terminal_number_firse</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>修改终端编号</description>
+      <initValue>'1008511'</initValue>
+      <name>terminal_number_second</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>初始终端型号</description>
+      <initValue>'ABCDEFG'</initValue>
+      <name>terminal_model_first</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>修改后终端型号</description>
+      <initValue>'HIJKLMN'</initValue>
+      <name>terminal_model_second</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

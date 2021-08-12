@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>添加sim，修改sim卡，查询sim卡</description>
+   <name>04-add-simcard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6836e60-d3c4-4192-aa23-b34748206933</testCaseGuid>
+</TestCaseEntity>

@@ -23,4 +23,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/filed-manage/03-terminal-file/03-add-terminal</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>fa0e77db-025b-47d2-9e7c-87749b96ec83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/filed-manage/04-sim-file/04-add-simcard</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

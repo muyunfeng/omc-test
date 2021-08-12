@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>添加车辆</description>
-   <name>02-add-vehicle</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>8f58d7a2-800d-49fa-bd3d-e53365c1ffbd</testCaseGuid>
-</TestCaseEntity>

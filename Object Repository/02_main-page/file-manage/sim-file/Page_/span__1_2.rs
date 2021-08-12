@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span__1_2_3_edit</name>
+   <name>span__1_2</name>
    <tag></tag>
-   <elementGuidId>172d41e0-d28c-437d-972e-bc891106fb8e</elementGuidId>
+   <elementGuidId>59bbc2e5-92bc-4177-9be3-298f3506b865</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value> //div[@class='omTable']//tr//span[normalize-space(text())='编辑']</value>
+         <value>//div[contains(@class, 'is-scrolling-none')]//tr//span[normalize-space(text())='编辑']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -42,28 +42,28 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;home&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;rightCon&quot;]/div[@class=&quot;archives&quot;]/div[@class=&quot;equipment&quot;]/div[@class=&quot;con&quot;]/div[@class=&quot;omTable&quot;]/div[@class=&quot;el-table el-table--fit el-table--fluid-height el-table--enable-row-hover el-table--enable-row-transition&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_2_column_13&quot;]/div[@class=&quot;cell el-tooltip&quot;]/span[1]/span[@class=&quot;rowEdit&quot;]</value>
+      <value>id(&quot;app&quot;)/div[@class=&quot;home&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;rightCon&quot;]/div[@class=&quot;archives&quot;]/div[@class=&quot;sim&quot;]/div[@class=&quot;con&quot;]/div[@class=&quot;omTable&quot;]/div[@class=&quot;el-table el-table--fit el-table--fluid-height el-table--enable-row-hover el-table--enable-row-transition&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row current-row&quot;]/td[@class=&quot;el-table_2_column_14&quot;]/div[@class=&quot;cell el-tooltip&quot;]/span[1]/span[@class=&quot;rowEdit&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[3]/table/tbody/tr/td[6]/div/span/span</value>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[3]/table/tbody/tr/td[7]/div/span/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='空'])[1]/following::span[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='空'])[3]/following::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='未绑定'])[1]/following::span[3]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='空'])[2]/following::span[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +91,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[6]/div/span/span</value>
+      <value>//div/span/span</value>
    </webElementXpaths>
 </WebElementEntity>

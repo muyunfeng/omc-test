@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>初始终端编号</description>
-      <initValue>'100861'</initValue>
+      <initValue>(1000000000..9999999999)</initValue>
       <name>terminal_number_firse</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>修改终端编号</description>
-      <initValue>'100851'</initValue>
+      <initValue>(1000000000..9999999999)</initValue>
       <name>terminal_number_second</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -28,5 +28,15 @@
       <description>修改后终端型号</description>
       <initValue>'HIJKLMN'</initValue>
       <name>terminal_model_second</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>初始sim卡号</description>
+      <initValue>(12345123451234510000..12345123451234599999)</initValue>
+      <name>sim_number_first</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>修改后sim卡编号</description>
+      <initValue>(12345678900000010000..12345678900000099999)</initValue>
+      <name>sim_number_second</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
